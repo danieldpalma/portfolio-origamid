@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Portfólio  - Origamid </h1>
-<a align="center" href="https://danieldpalma.github.io/portfolio-origamid/" target="_blank">
+<p align="center">
   <img src="./img/port.jpg" width="500" >
-</a>
+</p>
 
 ## Projeto
 
